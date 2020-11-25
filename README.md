@@ -5,4 +5,4 @@ This code approximates simple two dimensional signals with their Fourier coeffic
 
 E.G.
 
-![Imgur](https://i.imgur.com/he18CNT.gifv)
+![sawtooth](https://i.imgur.com/he18CNT.gif)
