@@ -5,4 +5,4 @@ This code approximates simple two dimensional signals with their Fourier coeffic
 
 E.G. 
 
-![] (Generated Animations/2. sawtooth.gif)
+![] (https://github.com/sittunswayam/Simple-Fourier-Animation/blob/main/Generated%20Animations/2.%20sawtooth.gif)
